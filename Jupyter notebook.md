@@ -1,11 +1,11 @@
-Enter : 转入编辑模式
-Shift-Enter : 运行本单元，选中下个单元
-Ctrl-Enter : 运行本单元
-Alt-Enter : 运行本单元，在其下插入新单元
-Y : 单元转入代码状态
-M :单元转入markdown状态
-R : 单元转入raw状态
-1 : 设定 1 级标题
+Enter : 转入编辑模式 <br>
+Shift-Enter : 运行本单元，选中下个单元 <br>
+Ctrl-Enter : 运行本单元 <br>
+Alt-Enter : 运行本单元，在其下插入新单元 <br>
+Y : 单元转入代码状态 <br>
+M :单元转入markdown状态 <br>
+R : 单元转入raw状态 <br> 
+1 : 设定 1 级标题 <br>
 2 : 设定 2 级标题
 3 : 设定 3 级标题
 4 : 设定 4 级标题
